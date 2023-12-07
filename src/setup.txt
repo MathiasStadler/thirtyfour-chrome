@@ -1,0 +1,12 @@
+1. id => normal user no root
+2. cd ~
+3. pwd
+4. create project => cargo new thirtyfour-chrome
+5. switch to project dir =>  cd thirtyfour-chrome/
+6. change main.rs from website => https://docs.rs/thirtyfour/latest/thirtyfour/
+7. add rust lib tokio => cargo add tokio
+8. add thirtyfour(selenium for rust) => cargo add thirtyfour
+
+
+# hit 1
+https://github.com/stevepryde/thirtyfour

@@ -1,0 +1,13 @@
+[package]
+name = "thirtyfour-chrome"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+#hyper = "0.14.26"
+#hyper = { version = "0.14.26", features = ["client", "http1", "http2"] }
+
+thirtyfour = "0.31.0"
+tokio = { version = "1.28.2", features = ["full"] }
